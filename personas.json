@@ -1,0 +1,16 @@
+{
+  "personas"  : [
+		  {			"nombre"  : "hola",
+			"apellido" : "adios"
+		},
+		{			"nombre"  : "hola",
+			"apellido" : "adios"
+		},
+		{			"nombre"  : "hola",
+			"apellido" : "adios"
+		},
+		{			"nombre"  : "hola",
+			"apellido" : "adios"
+		}	
+		]
+}
